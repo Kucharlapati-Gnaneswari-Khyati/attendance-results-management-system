@@ -21,6 +21,7 @@ A full-stack web application with role-based dashboards for students, faculty, a
 ## Screenshots
 ### Login Page
 <img width="603" height="237" alt="image" src="https://github.com/user-attachments/assets/255d667e-1a40-4ca2-950f-fef82caed8b5" />
+
 <img width="509" height="216" alt="image" src="https://github.com/user-attachments/assets/efbe622f-0bee-43cb-810f-f6921e11d075" />
 
 
@@ -35,6 +36,7 @@ APPROVE USER:
 
 ### Student Dashboard — View Results
 <img width="555" height="289" alt="image" src="https://github.com/user-attachments/assets/03173432-69e4-41af-8d50-44c2e4d61cd0" />
+
 <img width="490" height="316" alt="image" src="https://github.com/user-attachments/assets/e7f18098-3f14-418a-8f73-fb01dabc94b2" />
 
 ## How It Works
